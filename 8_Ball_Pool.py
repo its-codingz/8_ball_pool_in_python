@@ -1,13 +1,3 @@
-# -----------------------------------------------------------------------------
-#
-# 8 Ball Pool
-# Language - Python
-# Modules - pygame, sys, random, math
-#
-# Controls - Mouse, the length of Stick is propotional to Force applied
-#
-# -----------------------------------------------------------------------------
-
 import pygame
 import sys
 from math import *
